@@ -1,4 +1,4 @@
-# NavGS Dataset
+# EyeNavGS Dataset
 This repository contains the dataset for EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR.
 
 ## Overview
