@@ -2,11 +2,13 @@
 This repository contains the dataset for EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR.
 
 ## Overview
-NavGS provides high-fidelity user navigation traces in real-world 3D Gaussian Splatting (3DGS) scenes. The dataset is designed for research on VR-based navigation, behavior analysis, and neural rendering evaluation.
-You can attach the source code [here](https://github.com/symmru/EyeNavGS_Software).
+EyeNavGS provides high-fidelity user navigation traces in real-world 3D Gaussian Splatting (3DGS) scenes. The dataset is designed for research on VR-based navigation, behavior analysis, and neural rendering evaluation.
+You can attach the software's source code [here](https://github.com/symmru/EyeNavGS_Software).
 
 ## Parameters
 The following table summarizes the parameters used when capturing navigation traces.
+
+These can be also found in scene_setting.csv.
 | Dataset_Name | Quaternion (X Y Z W)           | Scale (float)       |
 |--------------|--------------------------------|---------------------|
 | truck        | -0.0872 0.0000 0.0000 0.9962   | --initial-scale 0.8 |
