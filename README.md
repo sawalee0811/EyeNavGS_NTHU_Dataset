@@ -1,9 +1,9 @@
 # NavGS Dataset
-This repository contains the dataset for NavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR.
+This repository contains the dataset for EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR.
 
 ## Overview
 NavGS provides high-fidelity user navigation traces in real-world 3D Gaussian Splatting (3DGS) scenes. The dataset is designed for research on VR-based navigation, behavior analysis, and neural rendering evaluation.
-You can attach the source code [here](https://github.com/symmru/SIBR_Gaussian_VRV).
+You can attach the source code [here](https://github.com/symmru/EyeNavGS_Software).
 
 ## Parameters
 The following table summarizes the parameters used when capturing navigation traces.
