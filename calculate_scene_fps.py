@@ -9,7 +9,7 @@ import os
 from pathlib import Path
 
 # === USER CONFIGURATION ===
-DATASET_PATH    = Path(rf"C:\CT\NavGS")  # <-- CHANGE THIS for your data
+DATASET_PATH    = Path(rf"Path\to\Your\Data")  # <-- CHANGE THIS for your data
 FPS_LIMIT       = 80
 MIN_INTERVAL_MS = 1000.0 / FPS_LIMIT  # 12.5 ms
 OUTPUT_CSV      = DATASET_PATH.parent  / "scene_average_fps.csv"
