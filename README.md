@@ -1,5 +1,9 @@
 # EyeNavGS Dataset
-This repository contains the dataset for EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR.
+This repository contains the dataset for 👁️NavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR
+
+Zihao Ding¹, Cheng‑Tse Lee², Mufeng Zhu¹, Tao Guan¹, Yuan‑Chun Sun², Cheng‑Hsin Hsu², Yao Liu¹<br>
+¹ Rutgers University | ² National Tsing Hua University<br>
+\| [Webpage](https://symmru.github.io/EyeNavGS/) | [Full Paper](https://arxiv.org/abs/2506.02380)
 
 ## Overview
 EyeNavGS provides high-fidelity user navigation traces in real-world 3D Gaussian Splatting (3DGS) scenes. The dataset is designed for research on VR-based navigation, behavior analysis, and neural rendering evaluation.
